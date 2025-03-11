@@ -41,3 +41,5 @@ document.write('Tenho ' + idade + ' anos.')
 if (idade >= 18) {
     alert('Pode tirar a habilitação')
 }
+
+
